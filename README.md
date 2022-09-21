@@ -25,7 +25,7 @@ I'm a 2 year student of software engineer, and junior devolper building my versi
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 
 <br />
-#
+
 
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
