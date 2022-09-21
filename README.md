@@ -25,10 +25,9 @@ I'm a 2 year student of software engineer, and junior devolper building my versi
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" />
 
 <br />
+<br />
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
-#<details>
+<details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
    I started my coding journey as a naive  vocational course student with a passion to learn everything I could about this programming world - code, unix, linux, theory and create my own app. But that soon got overshadowed by my desire to keep studing. A desire that landed me where I'm now, taking a 3 year software engineer course at university. But between the time of starting the sofware engeneer course, and my graduation from programing vocational course I was able to land some software engineering jobs, that made me learn new technologies and even made me want to learn more, that is why university is and has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, university.
 
